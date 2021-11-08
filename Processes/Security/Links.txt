@@ -1,0 +1,1 @@
+https://docs.microsoft.com/en-us/answers/questions/1718/adding-custom-claim-to-id-token-based-on-group-mem.html
